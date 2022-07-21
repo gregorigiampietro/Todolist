@@ -1,8 +1,8 @@
-Verifique se seu sistema possui a instalação do Node.js e do Yarn  
+Verificar se o sistema possui a instalação do Node.js e do Yarn  
 `$ node -v`  
 `$ yarn -v`  
 
-Então execute na diretório do repo  
+Executar a instalação das dependências 
 `$ yarn install`  
 
 Depois que as dependências tiverem sido instaladas  
