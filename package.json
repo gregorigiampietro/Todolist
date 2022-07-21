@@ -1,0 +1,23 @@
+{
+  "name": "electron-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/main/main.js",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.5.0",
+    "electron-store": "^5.1.0",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.5",
+    "react": "^18.2.0"
+  }
+}
